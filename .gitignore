@@ -1,0 +1,7 @@
+*.txt
+/node_modules
+server/node_modules
+Project/node_modules
+Project/*.json
+*.json
+server/*.json
